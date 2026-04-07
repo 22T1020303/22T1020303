@@ -1,0 +1,30 @@
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\bin\Debug\net8.0\SV22T1020381.DataLayers.deps.json
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\bin\Debug\net8.0\SV22T1020381.DataLayers.dll
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\bin\Debug\net8.0\SV22T1020381.DataLayers.pdb
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\bin\Debug\net8.0\SV22T1020381.Models.dll
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\bin\Debug\net8.0\SV22T1020381.Models.pdb
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.csproj.AssemblyReference.cache
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.AssemblyInfoInputs.cache
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.AssemblyInfo.cs
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.csproj.CoreCompileInputs.cache
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T102.8ACAAB20.Up2Date
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.dll
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\refint\SV22T1020381.DataLayers.dll
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.pdb
+C:\folderoC\visual studio\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\ref\SV22T1020381.DataLayers.dll
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\bin\Debug\net8.0\SV22T1020381.DataLayers.deps.json
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\bin\Debug\net8.0\SV22T1020381.DataLayers.dll
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\bin\Debug\net8.0\SV22T1020381.DataLayers.pdb
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\bin\Debug\net8.0\SV22T1020381.Models.dll
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\bin\Debug\net8.0\SV22T1020381.Models.pdb
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.csproj.AssemblyReference.cache
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.AssemblyInfoInputs.cache
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.AssemblyInfo.cs
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.csproj.CoreCompileInputs.cache
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.csproj.CopyComplete
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.dll
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\refint\SV22T1020381.DataLayers.dll
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\SV22T1020381.DataLayers.pdb
+C:\Users\lab\Downloads\SV22T1020381\SV22T1020381.DataLayers\obj\Debug\net8.0\ref\SV22T1020381.DataLayers.dll
